@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! Welcome to my Github landing page<br>I'm Fachri Gaffar, a passionate fullstack developer from Indonesia<br>
+Hi i am
+<br>Full Stack Developer | Laravel PHP \& Next.js React | SaaS, AI \& API Integration<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fachrigaffar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fachrigaffar@gmail.com) 
