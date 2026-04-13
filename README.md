@@ -21,11 +21,11 @@ I build full-stack web applications using Laravel for the backend and Next.js/Re
 * Basic SEO
 
 What I Build
-✅ SaaS platforms with subscription billing
-✅ Custom dashboards and internal tools
-✅ API-first backend systems with React/Next.js frontends
-✅ E-commerce platforms and marketplace applications
-✅ Web applications that integrate third-party APIs
+* SaaS platforms with subscription billing✅ 
+* Custom dashboards and internal tools✅
+* API-first backend systems with React/Next.js frontends✅
+* E-commerce platforms and marketplace applications✅
+* Web applications that integrate third-party APIs✅
 
 Tech Stack
 
