@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi i am<br>Full Stack Developer | Laravel PHP \& Next.js React | SaaS, AI \& API Integration<br>
 
 ## 🌐 Socials:
