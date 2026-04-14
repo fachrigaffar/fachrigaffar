@@ -3,7 +3,6 @@ I build full-stack web applications using Laravel for the backend and Next.js/Re
 
 ## My Expertise:
 ⚙️ Backend (Laravel \& PHP)
-
 * REST API design and development
 * Database architecture and query optimization (MySQL, PostgreSQL)
 * SaaS backend logic, subscriptions, billing, multi-tenancy
@@ -12,7 +11,6 @@ I build full-stack web applications using Laravel for the backend and Next.js/Re
 * Queue jobs, background processing, event-driven workflows
 
 🎨 Frontend (Next.js \& React)
-
 * Server-side rendering (SSR) and static generation (SSG)
 * Responsive UI with Tailwind CSS
 * API consumption and state management
@@ -26,13 +24,3 @@ What I Build
 * API-first backend systems with React/Next.js frontends✅
 * E-commerce platforms and marketplace applications✅
 * Web applications that integrate third-party APIs✅
-
-Tech Stack
-
-* Backend: Laravel, PHP 8+, Node.js
-* Frontend: Next.js, React, Vue.js, TypeScript, Tailwind CSS
-* Database: MySQL, PostgreSQL, Supabase, Neon, Redis
-* Payments: Stripe, PayPal, Laravel Cashier
-* DevOps: Vercel, AWS, Docker, GitHub Actions
-* Tools: Git, PHPUnit, RESTful APIs, Filament
-* AI: Claude, OpenAI
